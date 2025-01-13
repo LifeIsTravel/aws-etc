@@ -4,6 +4,10 @@
 
 ### Glue
 
+<img width="719" alt="스크린샷 2025-01-13 오후 4 54 51" src="https://github.com/user-attachments/assets/f9194818-fb95-459d-8f3d-b7c3a7423856" />
+
+> 빨간색 네모 박스 부분입니다.
+
 AWS Glue를 사용하여 데이터를 변환하고 처리하는 작업을 수행
 <br>
 S3 버킷 `team5-s3/raw_data`에 저장된 원시 데이터를 Glue를 통해 가공
