@@ -1,4 +1,4 @@
-# LifeIsTravel
+# ✈️ LifeIsTravel
 
 ## aws-etc
 
